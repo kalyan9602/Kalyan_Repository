@@ -1,4 +1,4 @@
-# Kalyan_Repositor
+# Machine Learning Projects
 
 ## Project 1 Stroke Prediction
 
