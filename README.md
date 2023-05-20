@@ -1,5 +1,7 @@
 # Projects
 
+## [PetSmart Sentiment Analysis, Applied Project](https://github.com/Kalyancln/Applied_Project)
+
 ## [Stroke Prediction(SVM, DT)](https://github.com/kalyan9602/Data-Minig-Projects/blob/main/Stroke_Prediction.ipynb)
 
 ## [Amazon Reviews(Sentiment Analysis- Vader, Roberta)](https://github.com/kalyan9602/Data-Minig-Projects/blob/main/Sentiment_AmazonReviews.ipynb)
